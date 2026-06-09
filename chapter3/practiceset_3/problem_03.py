@@ -1,0 +1,2 @@
+name = " anuj is a good  boy"
+print(name.find("  ")) # output : 35 , because it will find the first occurrence of the substring "  " in the string " my name is anuj mishra and i am   a student" and it will return the index of the first occurrence of the substring "  " which is 35. So the final output will be 35.
